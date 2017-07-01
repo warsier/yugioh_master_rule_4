@@ -1,1 +1,8 @@
-#1        『OCG』（Official Card Game）概要
+# 1        『OCG』（Official Card Game）概要
+
+|  |  |
+| :--- | :--- |
+|  |  |
+
+
+
