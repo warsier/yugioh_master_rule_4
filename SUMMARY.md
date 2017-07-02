@@ -1,4 +1,4 @@
 # Summary
 
-* [前言及规则更新](README.md)
+* [译者前言](README.md)
 
