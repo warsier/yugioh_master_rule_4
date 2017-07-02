@@ -1,16 +1,4 @@
 # Summary
-
-* [译者前言](README.md)
-* [『OCG』（Official Card Game）概要]
-  * [决斗](11.md)
-  * [决斗所需之物](12.md)
-    * [主卡组](121.md)
-      * [同名卡的定义](1211.md)
-    * [额外卡组(EX卡组)](122.md)
-    * [副卡组](123.md)
-  * [玩家](13.md)
-
-# Summary
 * [译者前言](README.md)
 * [『OCG』（Official Card Game）概要](1/README.md)
    * [决斗](1/11.md)
