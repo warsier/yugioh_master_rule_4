@@ -2,6 +2,7 @@
 * [译者前言](README.md)
 
 ## Part 1
+wow
 * [『OCG』（Official Card Game）概要](1/README.md)
    * [决斗](1/11.md)
    * [决斗所需之物](1/12.md)
