@@ -4,4 +4,7 @@
              "showLevel": true
         }
     }
+    "pdf": {
+        "fontFamily": "Sans"
+    }
 }
