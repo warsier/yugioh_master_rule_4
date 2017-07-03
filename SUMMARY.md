@@ -1,5 +1,5 @@
 # Summary
-[译者前言](README.md)
+* [译者前言](README.md)
 * [『OCG』（Official Card Game）概要](1/README.md)
    * [决斗](1/11.md)
    * [决斗所需之物](1/12.md)
