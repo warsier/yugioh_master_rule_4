@@ -1,4 +1,4 @@
-# 1        『OCG』（Official Card Game）概要
-_本页空白。_
+# 『OCG』（Official Card Game）概要
 
+_本页空白。_
 
